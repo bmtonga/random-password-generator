@@ -2,16 +2,14 @@
 
 A secure password generator built to create strong, random passwords for protecting online accounts and sensitive information.
 
-This project allows users to generate highly secure passwords with customizable options such as length and character types.
 
 ## Features
 
 - Generate strong random passwords
-- Adjustable password length
 - Uppercase letters (A–Z)
 - Lowercase letters (a–z)
 - Numbers (0–9)
-- Special characters (!@#$%^&*)
+- Special characters (!£$%^&*()_+-`¬@?><#~)
 - Copy password to clipboard
 - Strength indicator
 - Responsive user interface
@@ -41,7 +39,6 @@ password-generator/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
 └── README.md
 ```
 
